@@ -13,7 +13,7 @@ As a data analyst at PyBer, a python-based ridesharing app company, we will run 
 ![This is a alt text.](analysis/Pyber_summary_df.PNG)
 
 ### Total Fares by City Type 
-![This is a alt text.](analysis/Total_Fares_by_City_Type.png)
+![This is a alt text.](analysis/rides_per_driver.PNG)
 
 ## Summary 
 This analysis has helped Pyber better understand the disparities in ridesharing access and affordability in all three city types. We find that the company is well established in Urban areas, providing afforable rate, and access to a large number of drivers to provide rides. However, in the case of rural and specially suburban areas, there is a large gap in access and affordability. If we calculate rides per driver (total rides/total drivers), it gives us a good indication of the availability of drivers in these city types.
