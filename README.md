@@ -20,4 +20,4 @@ This analysis has helped Pyber better understand the disparities in ridesharing 
 
 ![This is a alt text.](analysis/rides_per_driver.PNG)
 
-We find that 
+We find that there is a large gap in availability of drivers in Rural (1.6 rides per driver) and Suburban (1.28 rides per driver) areas. Therefore, we need to incentivize more drivers to consider ridesharing in these areas. We can do this by providing incentives such as providing starting bonuses whereby pyber provide drivers 200 to 300 dollars for signing with pyber compliant on them working certain hours a week. On the demand side we can provide pyber ride credit to new customers in order to increase the customer base in these areas. We can also make deals with businesses in rural and suburban city types by providing them mass discounts with pyber to incentivize businesses to adopt pyber for ridesharing services. This can help create brand loyalty and increase usage of ridesharing services. By increasing both supply and demand we can increase access and affordability in rural and suburban areas.
